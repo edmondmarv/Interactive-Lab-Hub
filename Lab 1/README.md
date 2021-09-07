@@ -60,19 +60,22 @@ To stage the interaction with your interactive device, think about:
 
 _Setting:_ Where is this interaction happening? (e.g., a jungle, the kitchen) When is it happening?
 
-_Players:_ Who is involved in the interaction? Who else is there? If you reflect on the design of current day interactive devices like the Amazon Alexa, it’s clear they didn’t take into account people who had roommates, or the presence of children. Think through all the people who are in the setting.
+The interaction is happening within the player's home.
 
 _Activity:_ What is happening between the actors?
 
-_Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening the fridge). 
+The goal is to identify the player's phone percentage without having to physically interact with their phone. 
 
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 
-\*\***Describe your setting, players, activity and goals here.**\*\*
+**Setting**: At home
+**Player**: Phone User
+**Activity**: Iphone Charging
+**Goal**: Charge phone successfully with notification presented by charging cord,
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 
-\*\***Include a picture of your storyboard here**\*\*
+(https://github.com/edmondmarv/Interactive-Lab-Hub/blob/Fall2021/Lab%201/staging_lab_1.png)
 
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 
@@ -83,10 +86,7 @@ Present your idea to the other people in your breakout room. You can just get fe
 
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
-\*\***Are there things that seemed better on paper than acted out?**\*\*
-
-\*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
-
+I was not able to interact with the prototype.
 
 ## Part C. Prototype the device
 
@@ -104,7 +104,7 @@ If you run into technical issues with this tool, you can also use a light switch
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
-\*\***Include your first attempts at recording the set-up video here.**\*\*
+I was not able to wizard up my device. The prototype is an actual charging cord.
 
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
@@ -117,18 +117,16 @@ Only now should you start worrying about what the device should look like. Devel
 
 Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
 
-\*\***Include sketches of what your device might look like here.**\*\*
+I was not able to costume up my device. The prototype is an actual charging cord.
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
 
 ## Part F. Record
 
-\*\***Take a video of your prototyped interaction.**\*\*
+I have not recorded any interaction with my prototype. However, my team member Rebecca Lassman has uploaded a recording. You can find it here: https://github.com/rslassman/Interactive-Lab-Hub/tree/Fall2021/Lab%201
 
-\*\***Please indicate anyone you collaborated with on this Lab.**\*\*
-Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
-
+I partnered with Rebecca Lassman, https://github.com/rslassman/Interactive-Lab-Hub/tree/Fall2021/Lab%201. She helped to flesh out the features of the power display cord. Furthermore, Rebecca recorded an interaction with the prototype which can be found in the link above.
 
 
 # Staging Interaction, Part 2 
