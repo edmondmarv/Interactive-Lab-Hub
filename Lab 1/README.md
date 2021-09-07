@@ -60,12 +60,12 @@ To stage the interaction with your interactive device, think about:
 
 _Setting:_ Where is this interaction happening? (e.g., a jungle, the kitchen) When is it happening?
 
-The interaction is happening within the player's home.
-
+**The interaction is happening within the player's home.
+**
 _Activity:_ What is happening between the actors?
 
-The goal is to identify the player's phone percentage without having to physically interact with their phone. 
-
+**The goal is to identify the player's phone percentage without having to physically interact with their phone. 
+**
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 
 **Setting**: At home
@@ -86,8 +86,8 @@ Present your idea to the other people in your breakout room. You can just get fe
 
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
-I was not able to interact with the prototype.
-
+**I was not able to interact with the prototype.
+**
 ## Part C. Prototype the device
 
 You will be using your smartphone as a stand-in for the device you are prototyping. You will use the browser of your smart phone to act as a “light” and use a remote control interface to remotely change the light on that device. 
@@ -104,8 +104,8 @@ If you run into technical issues with this tool, you can also use a light switch
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
-I was not able to wizard up my device. The prototype is an actual charging cord.
-
+**I was not able to wizard up my device. The prototype is an actual charging cord.
+**
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
 \*\***Show the follow-up work here.**\*\*
@@ -117,16 +117,16 @@ Only now should you start worrying about what the device should look like. Devel
 
 Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
 
-I was not able to costume up my device. The prototype is an actual charging cord.
-
+**I was not able to costume up my device. The prototype is an actual charging cord.
+**
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
 
 ## Part F. Record
 
-I have not recorded any interaction with my prototype. However, my team member Rebecca Lassman has uploaded a recording. You can find it here: https://github.com/rslassman/Interactive-Lab-Hub/tree/Fall2021/Lab%201
+**I have not recorded any interaction with my prototype. However, my team member Rebecca Lassman has uploaded a recording. You can find it here: https://github.com/rslassman/Interactive-Lab-Hub/tree/Fall2021/Lab%201
 
-I partnered with Rebecca Lassman, https://github.com/rslassman/Interactive-Lab-Hub/tree/Fall2021/Lab%201. She helped to flesh out the features of the power display cord. Furthermore, Rebecca recorded an interaction with the prototype which can be found in the link above.
+I partnered with Rebecca Lassman, https://github.com/rslassman/Interactive-Lab-Hub/tree/Fall2021/Lab%201. She helped to flesh out the features of the power display cord. Furthermore, Rebecca recorded an interaction with the prototype which can be found in the link above.**
 
 
 # Staging Interaction, Part 2 
