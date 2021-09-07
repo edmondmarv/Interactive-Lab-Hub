@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/22060491/132359136-36227e0f-7bbe-4111-a276-10b01c0054e3.png)
 
 
 # Staging Interaction
@@ -62,6 +63,7 @@ _Setting:_ Where is this interaction happening? (e.g., a jungle, the kitchen) Wh
 
 **The interaction is happening within the player's home.
 **
+
 _Activity:_ What is happening between the actors?
 
 **The goal is to identify the player's phone percentage without having to physically interact with their phone. 
@@ -75,7 +77,7 @@ The interactive device can be anything *except* a computer, a tablet computer or
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 
-(https://github.com/edmondmarv/Interactive-Lab-Hub/blob/Fall2021/Lab%201/staging_lab_1.png)
+![image](https://user-images.githubusercontent.com/22060491/132359164-cf5796b0-3b49-417f-8752-170d8976fad6.png)
 
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 
@@ -88,6 +90,7 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 **I was not able to interact with the prototype.
 **
+
 ## Part C. Prototype the device
 
 You will be using your smartphone as a stand-in for the device you are prototyping. You will use the browser of your smart phone to act as a “light” and use a remote control interface to remotely change the light on that device. 
@@ -106,6 +109,7 @@ Take a little time to set up the wizarding set-up that allows for someone to rem
 
 **I was not able to wizard up my device. The prototype is an actual charging cord.
 **
+
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
 \*\***Show the follow-up work here.**\*\*
@@ -119,6 +123,7 @@ Think about the setting of the device: is the environment a place where the devi
 
 **I was not able to costume up my device. The prototype is an actual charging cord.
 **
+
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
 
