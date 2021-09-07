@@ -54,8 +54,6 @@ Labs are due on Mondays. Make sure this page is linked to on your main class hub
 
 ## Part A. Plan 
 
-To stage the interaction with your interactive device, think about:
-
 _Setting:_ Where is this interaction happening? (e.g., a jungle, the kitchen) When is it happening?
 
 **The interaction is happening within the player's home.
@@ -65,58 +63,38 @@ _Activity:_ What is happening between the actors?
 
 **The goal is to identify the player's phone percentage without having to physically interact with their phone. 
 **
-The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 
 **Setting**: At home
 **Player**: Phone User
 **Activity**: Iphone Charging
-**Goal**: Charge phone successfully with notification presented by charging cord,
-
-Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
+**Goal**: Charge phone successfully with notification presented by charging cord, 
 
 ![image](https://user-images.githubusercontent.com/22060491/132359164-cf5796b0-3b49-417f-8752-170d8976fad6.png)
-
-Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 
 \*\***Summarize feedback you got here.**\*\*
 
 
 ## Part B. Act out the Interaction
 
-Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
-
-**I was not able to interact with the prototype.
+**I was not able to interact with the prototype. However, my partner Rebecca Lassman has provided a recording of her interaction. It can be found here: https://github.com/rslassman/Interactive-Lab-Hub/tree/Fall2021/Lab%201
 **
 
 ## Part C. Prototype the device
 
-You will be using your smartphone as a stand-in for the device you are prototyping. You will use the browser of your smart phone to act as a “light” and use a remote control interface to remotely change the light on that device. 
-
-Code for the "Tinkerbelle" tool, and instructions for setting up the server and your phone are [here](https://github.com/FAR-Lab/tinkerbelle).
-
-We invented this tool for this lab! 
-
-If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
-
 \*\***Give us feedback on Tinkerbelle.**\*\*
+
+Tinkerbelle was not utilized for this lab.
 
 
 ## Part D. Wizard the device
-Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 **I was not able to wizard up my device. The prototype is an actual charging cord.
 **
-
-Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
 \*\***Show the follow-up work here.**\*\*
 
 
 ## Part E. Costume the device
-
-Only now should you start worrying about what the device should look like. Develop a costume so that you can use your phone as this device.
-
-Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
 
 **I was not able to costume up my device. The prototype is an actual charging cord.
 **
