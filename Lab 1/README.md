@@ -133,4 +133,12 @@ Do last week’s assignment again, but this time:
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
 
-Documentation can be found on Rebecca's Github page located here: https://github.com/rslassman/Interactive-Lab-Hub/tree/Fall2021/Lab%201.
+Our revised storyboard/sketch implementing classmate critiques.
+
+![image](https://github.com/edmondmarv/Interactive-Lab-Hub/blob/Fall2021/Lab%201/staging_lab_2.drawio.png)
+
+An additional storyboard/sketch of utilizing vibration to notify the user of charging completion.
+
+![image](https://github.com/edmondmarv/Interactive-Lab-Hub/blob/Fall2021/Lab%201/staging_lab_2_vibration.drawio.png)
+
+Additional video and storyboard documentation can be found on Rebecca's Github page located here: https://github.com/rslassman/Interactive-Lab-Hub/tree/Fall2021/Lab%201.
