@@ -190,7 +190,9 @@ After that, Git will ask you to login to your GitHub account to push the updates
 ## Part F. 
 ## Make a short video of your modified barebones PiClock
 
-\*\*\***Take a video of your PiClock.**\*\*\*
+Time is measured in text messages. It takes about 5 seconds to send a text message. Therefore, 12 text messages are sent per minute. This is used to calculate the current time.
+
+[![Watch the video](https://github.com/edmondmarv/Interactive-Lab-Hub/blob/Fall2021/Lab%202/pi_clock.mov)
 
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
