@@ -195,8 +195,8 @@ Time is measured in text messages. It takes about 5 seconds to send a text messa
 [![Click to download Pi Clock video](https://github.com/edmondmarv/Interactive-Lab-Hub/blob/Fall2021/Lab%202/pi_clock.mov)
 
 ## Part G. 
-## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
-
+- Multi-city clock (NYC, London, Shanghai)
+- Stop watch
 
 # Prep for Part 2
 
