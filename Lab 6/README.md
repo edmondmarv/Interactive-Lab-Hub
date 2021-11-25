@@ -110,8 +110,13 @@ Plug in the capacitive sensor board with the Qwiic connector. Use the alligator 
 
 **\*\*\*Include a picture of your setup here: what did you see on MQTT Explorer?\*\*\***
 
+![alt text](https://raw.githubusercontent.com/edmondmarv/Interactive-Lab-Hub/Fall2021/Lab%206/imgs/142281381-8fd391c5-c2b7-4221-87d8-ca97267c7443.jpeg)
+
+See the value appear in the MQTT interface with the group/subfolder hilighted (as shown in image above)
+
 **\*\*\*Pick another part in your kit and try to implement the data streaming with it.\*\*\***
 
+![alt text](https://raw.githubusercontent.com/edmondmarv/Interactive-Lab-Hub/Fall2021/Lab%206/imgs/142281642-382d23c3-186e-45c3-959f-a9353f583e00.jpeg)
 
 ### Part D
 ### The One True ColorNet
@@ -144,6 +149,7 @@ Of course not! You can go to [https://one-true-colornet.glitch.me/](https://one-
 
 **\*\*\*Can you set up the script that can read the color anyone else publish and display it on your screen?\*\*\***
 
+See color_reader.py file in Lab folder.
 
 ### Part E
 ### Make it your own
@@ -152,11 +158,23 @@ Find at least one class (more are okay) partner, and design a distributed applic
 
 **\*\*\*1. Explain your design\*\*\*** For example, if you made a remote controlled banana piano, explain why anyone would want such a thing.
 
+We desgined a system that tells you which door bell is ringing. For example if your house has 3 doors, the side door, the front door and the back door, the device will send you a text message notification with the text: 'someone is ringing your doorbell from the front door.'
+
 **\*\*\*2. Diagram the architecture of the system.\*\*\*** Be clear to document where input, output and computation occur, and label all parts and connections. For example, where is the banana, who is the banana player, where does the sound get played, and who is listening to the banana music?
+
+![alt text](https://github.com/edmondmarv/Interactive-Lab-Hub/blob/Fall2021/Lab%206/imgs/doorbell_sms_diaghram.png)
 
 **\*\*\*3. Build a working prototype of the system.\*\*\*** Do think about the user interface: if someone encountered these bananas somewhere in the wild, would they know how to interact with them? Should they know what to expect?
 
+Yes - we made a smart doorbell system that should match peoples existing understanding/use/interaction with doorbells. For the person getting the notification, they get a text message that clearly says the doorbell is ringing and which doorbell it is so that should also be clear to people.
+
+![alt text](https://raw.githubusercontent.com/edmondmarv/Interactive-Lab-Hub/Fall2021/Lab%206/imgs/142658444-a7150f52-85c6-4306-bfb4-bc9beb99b684.jpeg)
+
 **\*\*\*4. Document the working prototype in use.\*\*\*** It may be helpful to record a Zoom session where you should the input in one location clearly causing response in another location.
+
+Prototype video: https://youtu.be/9m7tELprXJ4
+
+For this lab I worked with Rebecca Lassman
 
 <!--**\*\*\*5. BONUS (Wendy didn't approve this so you should probably ignore it)\*\*\*** get the whole class to run your code and make your distributed system BIGGER.-->
 
