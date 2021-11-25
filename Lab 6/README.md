@@ -86,6 +86,9 @@ Once connected, you should be able to see all the messages under the IDD topic. 
 
 **\*\*\*Consider how you might use this messaging system on interactive devices, and draw/write down 5 ideas here.\*\*\***
 
+![alt text](https://github.com/edmondmarv/Interactive-Lab-Hub/blob/Fall2021/Lab%206/imgs/141718237-c58ec669-cfe7-4f7b-91c4-8e50caa4663b.jpeg)
+![alt text](https://raw.githubusercontent.com/edmondmarv/Interactive-Lab-Hub/Fall2021/Lab%206/imgs/141718255-f17e0c1a-e918-4390-98a1-ec09aaee95d1.jpeg)
+
 ### Part C
 ### Streaming a Sensor
 
