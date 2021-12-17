@@ -175,9 +175,20 @@ Usually, sensors need to positioned in specific locations or orientations to mak
 
 **\*\*\*Draw 5 sketches of different ways you might use your sensor, and how the larger device needs to be shaped in order to make the sensor useful.\*\*\***
 
+<img src="https://github.com/edmondmarv/Interactive-Lab-Hub/blob/Fall2021/Lab%204/lab4_sketches.drawio.png">
+
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
+1. How close in proximity will I need to be in order to register a movement?
+3. How intense does a light source need to be in order to register with the sensor?
+4. Should I use rapid or slow gestures to trigger a response in the sensor?
+5. How much of an effect will distance on the gestire sensor?
+
+A small prototype will need to be constructed to better answer the questions proposed.
+
 **\*\*\*Pick one of these designs to prototype.\*\*\***
+
+I plan on prototyping the weather data reader utilizing hand gestures. This mockup will require the least amount of needed parts. However, it is a useful tool which allows users who are exiting their residence or office building to determine the current weather temperature outside.
 
 
 ### Part D
@@ -220,11 +231,23 @@ Think about how you want to present the information about what your sensor is se
  
 **\*\*\*Sketch 5 designs for how you would physically position your display and any buttons or knobs needed to interact with it.\*\*\***
 
+<img src="https://github.com/edmondmarv/Interactive-Lab-Hub/blob/Fall2021/Lab%204/lab4_pi_sketches.drawio.png"/> 
+
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
+
+1. Since the sensor would appear on different sides, how should I include a description on which way the device should be facing?
+2. If I were to use the either the pyramid or cylinder design, how would this affect placement of the device? Ideally, this device would be hanging on a wall.
+4. Would this device be constantly running or does it need an on/off switch?
+
+All of these questions need to be tested through a prototype to understand the interaction.
 
 **\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
 
+I will proceed with prototype 2. This model makes it easier for a user to operate as the display screen and gesture sensor are on the same side. This elminates a user from placing the device in the wrong position.
+
 **\*\*\*Explain the rationale for the design.\*\*\*** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
+
+Since the device is returning a single data point and utilizing a single sensor, the size should be appropriate for operation. I will be creaing a small handheld prototype, as lightweight as possible, in case the user wishes to place the device in another area.
 
 Build a cardbord prototype of your design.
 
