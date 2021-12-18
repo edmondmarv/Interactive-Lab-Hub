@@ -103,7 +103,15 @@ Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stu
 
 \*\***Post your storyboard and diagram here.**\*\*
 
-Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
+*Device: Smart Closet*
+
+As consumers closets' begin to grow, it is harder to keep track of which items are inside of their closets. Having the ability to record each fashion piece is often a tedious task to accomplish. However, the Smart Closet makes this easier for consumers. The Smart Closet can detail to the user what pieces are inside of their closet by clothing type or color. 
+
+<img src=https://github.com/edmondmarv/Interactive-Lab-Hub/blob/Fall2021/Lab%203/lab3_interactions.drawio.png/>
+
+*Dialogue:*
+
+
 
 \*\***Please describe and document your process.**\*\*
 
