@@ -202,11 +202,13 @@ After that, Git will ask you to login to your GitHub account to push the updates
 
 Time is measured in text messages. It takes about 5 seconds to send a text message. Therefore, 12 text messages are sent per minute. This is used to calculate the current time.
 
-[![Click to download Pi Clock video](https://github.com/edmondmarv/Interactive-Lab-Hub/blob/Fall2021/Lab%202/pi_clock.mov)
+[![Video](https://github.com/edmondmarv/Interactive-Lab-Hub/blob/Fall2021/Lab%202/vid_prev_a.png)](https://youtu.be/R0LmvdGKJkY)
 
-## Part G. 
-- Multi-city clock (NYC, London, Shanghai)
-- Stop watch
+## Part G.
+
+For future interations, I would like to feature a multi-city clock as well as maybe a stopwatch feature. Moreover, utilizing the buttons available in the kit can create a stop watch feature for my clock.
+
+<img src="https://github.com/edmondmarv/Interactive-Lab-Hub/blob/Fall2021/Lab%202/lab_2_interactions.drawio.png"/>
 
 # Prep for Part 2
 
