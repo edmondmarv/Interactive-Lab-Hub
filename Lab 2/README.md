@@ -177,9 +177,12 @@ Now you should be able to edit python scripts with Thonny on your Pi.
 ## Part E.
 ### Modify the barebones clock to make it your own
 
-Does time have to be linear?  How do you measure a year? [In daylights? In midnights? In cups of coffee?](https://www.youtube.com/watch?v=wsj15wPpjLY)
+### __Description__
+For my barebones clock, time is measured in number of text messages. After performing a few time trails, I determined it takes about 5 seconds to send a text message. Therefore, 12 text messages are sent per minute. This is used to calculate the current time.
 
-Can you make time interactive? You can look in `screen_test.py` for examples for how to use the buttons.
+- 1 txt msg = 5 seconds
+- 1 minute = 12 txt msgs
+- 1 hour = 720 txt msgs
 
 **We strongly discourage and will reject the results of literal digital or analog clock display.**
 
@@ -199,8 +202,6 @@ After that, Git will ask you to login to your GitHub account to push the updates
 
 ## Part F. 
 ## Make a short video of your modified barebones PiClock
-
-Time is measured in text messages. It takes about 5 seconds to send a text message. Therefore, 12 text messages are sent per minute. This is used to calculate the current time.
 
 [![Video](https://github.com/edmondmarv/Interactive-Lab-Hub/blob/Fall2021/Lab%202/vid_prev_a.png)](https://youtu.be/R0LmvdGKJkY)
 
