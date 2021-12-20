@@ -232,4 +232,4 @@ Finally, a user will have to do a bit of mental math to calculate the current ti
 
 ### Video
 
-[![Video](https://github.com/edmondmarv/Interactive-Lab-Hub/blob/Fall2021/Lab%202/vid_prev_a.png)](https://youtu.be/R0LmvdGKJkY)
+[![Video](https://github.com/edmondmarv/Interactive-Lab-Hub/blob/Fall2021/Lab%202/vid_prev_b.png)](https://youtu.be/xaPqamwP9eY)
