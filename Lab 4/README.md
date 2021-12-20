@@ -182,7 +182,7 @@ Usually, sensors need to positioned in specific locations or orientations to mak
 1. How close in proximity will I need to be in order to register a movement?
 3. How intense does a light source need to be in order to register with the sensor?
 4. Should I use rapid or slow gestures to trigger a response in the sensor?
-5. How much of an effect will distance on the gestire sensor?
+5. How much of an effect will distance have on the gesture sensor?
 
 A small prototype will need to be constructed to better answer the questions proposed.
 
@@ -251,7 +251,7 @@ Since the device is returning a single data point and utilizing a single sensor,
 
 Build a cardbord prototype of your design.
 
-**\*\*\*Document your rough prototype.\*\*\***
+<img src="https://github.com/edmondmarv/Interactive-Lab-Hub/blob/Fall2021/Lab%204/gesture_1st_iter.jpg">
 
 
 LAB PART 2
