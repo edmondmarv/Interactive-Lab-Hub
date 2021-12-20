@@ -297,6 +297,14 @@ Document all the prototypes and iterations you have designed and worked on! Agai
 * "Works like": shows what the device can do
 * "Acts like": shows how a person would interact with the device
 
+Final Prototype Description:
+
+A smaller box was created to make the protoype more compact compared to the first iteration. Since the device is pretty simple to use with one sensor being the main trigger to execute the weather data task, I could not think of any other sensors to incorporate for the second iteration. Most of the improvements were in the python script which retrieves data from the weather.gov API.
+
+When the user waves their hand in front of the device, this sends a signal to the python script to execute weather data retrieval from weather.gov. This data is parsed and converted to farenheit temperature before being displayed on the Pi screen.
+
+Below are the final images and a video demonstrating the look, feel, and functioning of the device. The code used to run the program is [gesture_proto.py](https://github.com/edmondmarv/Interactive-Lab-Hub/blob/Fall2021/Lab%204/gesture_proto.py)
+
 Video:
 
 [![Video](https://github.com/edmondmarv/Interactive-Lab-Hub/blob/Fall2021/Lab%204/vid_prev_a.png)](https://youtu.be/Oa06N-tR21s)
