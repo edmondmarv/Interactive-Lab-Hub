@@ -121,6 +121,7 @@ As consumers closets' begin to grow, it is harder to keep track of which items a
 * User: "Hi Thomas. I bought a new t-shirt"
 * Smart Closet: "Hi! Please tell me more about your new t-shirt"
 * User: "Sure. The color is black, the size is large, and the fabric is cotton"
+* Smart Closet: "New T-shirt. Color is black. Size is large. Fabric is cotton"
 * Smart Closet: "Sounds like a good pick up. Please insert when you're ready"
 * User: [ places new t-shirt in smart closet ]
 
@@ -130,20 +131,18 @@ Find a partner, and *without sharing the script with your partner* try out the d
 
 \*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*
 
+Unfortunately, I was not able to find a partner to act out this interaction with. This would have provided a lot of important information such as:
+* What order should details about the garment be given by the user
+* What should be the proper speed of speech given by the user
+* What are additional details which may be missing that should be incorporated into the device's memory
+* What are other features that should be added
+
+A real interaction between a user and the prototype can be seen in the section below, Lab 3 Part 2.
+
 ### Wizarding with the Pi (optional)
 In the [demo directory](./demo), you will find an example Wizard of Oz project. In that project, you can see how audio and sensor data is streamed from the Pi to a wizard controller that runs in the browser.  You may use this demo code as a template. By running the `app.py` script, you can see how audio and sensor data (Adafruit MPU-6050 6-DoF Accel and Gyro Sensor) is streamed from the Pi to a wizard controller that runs in the browser `http://<YouPiIPAddress>:5000`. You can control what the system says from the controller as well!
 
-\*\***Describe if the dialogue seemed different than what you imagined, or when acted out, when it was wizarded, and how.**\*\*
-
 # Lab 3 Part 2
-
-For Part 2, you will redesign the interaction with the speech-enabled device using the data collected, as well as feedback from part 1.
-
-## Prep for Part 2
-
-1. What are concrete things that could use improvement in the design of your device? For example: wording, timing, anticipation of misunderstandings...
-2. What are other modes of interaction _beyond speech_ that you might also use to clarify how to interact?
-3. Make a new storyboard, diagram and/or script based on these reflections.
 
 ## Prototype your system
 
@@ -154,7 +153,11 @@ The system should:
 
 *Document how the system works*
 
+The Pi and Microphone/Speaker are placed on my bed in close proximity to my dresser. My laptop is fairly close as well, as it is stationed on my computer desk close by. As I interact with my smart closet, my audio is processed by the Pi and I am returned speech as if my Smart Closet is talking back to me.
+
 *Include videos or screencaptures of both the system and the controller.*
+
+[![Video](https://github.com/edmondmarv/Interactive-Lab-Hub/blob/Fall2021/Lab%203/vid_prev_a.png)](https://youtu.be/p6-W0coApaQ)
 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
@@ -162,18 +165,18 @@ Try to get at least two people to interact with your system. (Ideally, you would
 Answer the following:
 
 ### What worked well about the system and what didn't?
-\*\**your answer here*\*\*
+
+* Worked well: Text to speech worked well. Also, device placement by the dresser made it easy to interact with the system. Repetition of information given by the user confirms details about the new garment.
+* Did not work well: Speech to text was a bit tricky to figure out as the microphone on the webcam was caused issues with the usb microphone provided. Since I was not able to access the Pi's system controls easily to fix this, I had to work around this issue.
 
 ### What worked well about the controller and what didn't?
 
-\*\**your answer here*\*\*
+Interacting with the controller strictly through voice made the process of information transfer easier for the user.
 
 ### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
 
-\*\**your answer here*\*\*
-
+Utilzing a more natural voice engine such as the one provided by Google made the conversation easier to participate in. The WoZ had a very robotic tone and delivery which made comprehension a bit difficult at first.
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
-\*\**your answer here*\*\*
-
+My system can store data regarding all new purchases or selling of garments owned by the user. A collection of garments by clothing type, size, color, and fabric can be saved and viewed at any time on their personal computer or mobile device. This will allow a user to better shop for new clothing items since a record is kept of what is already owned. Furthermore, recommendations can be made on what pieces should worn on any given day/night, sort of like a personal stylist. Users will also see which items they have not worn in a very long time, which they can potentially sell.
