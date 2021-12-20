@@ -99,9 +99,7 @@ From a remote browser on the same network, check to make sure your webserver is 
 
 ### Storyboard
 
-Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stuck? Make a device that talks for dogs. If that is too stupid, find an application that is better than that.) 
-
-\*\***Post your storyboard and diagram here.**\*\*
+Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stuck? Make a device that talks for dogs. If that is too stupid, find an application that is better than that.)
 
 *Device: Smart Closet*
 
@@ -109,11 +107,22 @@ As consumers closets' begin to grow, it is harder to keep track of which items a
 
 <img src=https://github.com/edmondmarv/Interactive-Lab-Hub/blob/Fall2021/Lab%203/lab3_interactions.drawio.png/>
 
+*Overview:*
+* User: [ comes back home from a day of shopping ] 
+* Hey Thomas (Smart Closet name), I bought a new tshirt. 
+* The user then begins to tell his smart closet details about the item he purchased.
+
+*Steps necessary for interaction:*
+* Step 1: Tell closet he has a new t-shirt
+* Step 2: Give details about his new t-shirt (color, size, fabric)
+* Step 3: User puts his new t-shirt in the closet
+
 *Dialogue:*
-
-
-
-\*\***Please describe and document your process.**\*\*
+* User: "Hi Thomas. I bought a new t-shirt"
+* Smart Closet: "Hi! Please tell me more about your new t-shirt"
+* User: "Sure. The color is black, the size is large, and the fabric is cotton"
+* Smart Closet: "Sounds like a good pick up. Please insert when you're ready"
+* User: [ places new t-shirt in smart closet ]
 
 ### Acting out the dialogue
 
