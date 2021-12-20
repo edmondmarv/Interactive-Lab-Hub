@@ -297,3 +297,12 @@ Document all the prototypes and iterations you have designed and worked on! Agai
 * "Works like": shows what the device can do
 * "Acts like": shows how a person would interact with the device
 
+Video:
+
+[![Video](https://github.com/edmondmarv/Interactive-Lab-Hub/blob/Fall2021/Lab%204/vid_prev_a.png)](https://youtu.be/Oa06N-tR21s)
+
+Pictures:
+
+<img src="https://github.com/edmondmarv/Interactive-Lab-Hub/blob/Fall2021/Lab%204/gesture_2nd_iter_a.jpg">
+
+<img src="https://github.com/edmondmarv/Interactive-Lab-Hub/blob/Fall2021/Lab%204/gesture_2nd_iter_b.jpg">
